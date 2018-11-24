@@ -1,0 +1,58 @@
+# background (predefined categories with known predefined courses)  and subject also in predefined categories
+
+# motivation (quantify interest)
+
+# style/mode of study
+
+# hours per week
+
+# source of studying
+
+# practicals included
+
+
+########## overall health and lifestyle
+
+# hours sleep and physical wellbeing
+
+# sociability, activities
+
+# stress, axiety, mental health
+
+
+
+1. What is your background? (categories)
+
+
+
+Computer Science   ()
+
+Mathematics  ()
+
+Biology ()
+
+Chemistry ()
+
+Languages ()
+
+History ()
+
+
+
+
+
+2. How interested you are in this course?  (categories)
+
+3. Do you prefer to study alone? (yes/no)
+
+4. How many hours do you study per week for this course? (numeric)
+
+5. What study materials you use for the course?  (categories)
+
+6. Have you done any practical work in the course? (yes/no)
+
+7. How many hours of sleep per night do you usually have? (numeric)
+
+8. What of the following social activities you participate in? (categories)
+
+9. Have you been feeling stressed or unmotivated lately? (yes/no)
