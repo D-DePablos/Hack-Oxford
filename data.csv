@@ -1,0 +1,12 @@
+,Questions,Answers,Ans_type
+0,What course are you taking,Linear Algebra:Probability and Statistics:Databases:Functional Programming:Biochemistry:Genetics:Organic Chemistry:English:Latin:Mandarin,single
+1,What is your background?,Mathematics:Computer Science:Biology:Chemistry:Languages:History,single
+2,How interested are you in this course?,0:1:2:3:4:5:6:7:8:9:10,single
+3,How many hours do you study this course per week for ?,0:1:2:3:4:5:6:7:8:9:10+,single
+4,What study materials you use for the course?,"Lecture Slides:Notes:Books-Recommended:Books-Out Of Course:Internet Resources(Videos, Articles)",multiple
+5,Have you done any practical work in the course?,Yes:No:NA:Prefer not to Say,single
+6,Do you prefer to study alone?,Yes:No,single
+7,How many hours of sleep per night do you usually have?,0:1:2:3:4:5:6:7:8:9:10+,single
+8,What of the following social activities do you participate in?,Sports:Volunteering Work:Fishing:Modelling:Programming:Friend Circle in the University,multiple
+9,Have you been feeling stressed or unmotivated lately?,Yes:No,single
+10,Expected Grade in the course,1:2:3:4,single

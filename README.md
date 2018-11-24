@@ -16,6 +16,6 @@ Cool features:
 
 - Give funny advice so person is not sad (Funny mode?)
 
-- Create graphs of whole distributions
+- Create graphs of whole distribution and being able to look at them (fetch ...)
 
 - Put name of book on Amazon

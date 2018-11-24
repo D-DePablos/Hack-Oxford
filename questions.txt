@@ -49,7 +49,7 @@ History ()
 
 5. What study materials you use for the course?  (categories)
 
-6. Have you done any practical work in the course? (yes/no)
+6. Have you done any practical work in the course? (yes/no/NA)
 
 7. How many hours of sleep per night do you usually have? (numeric)
 
