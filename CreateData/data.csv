@@ -3,7 +3,7 @@
 1,What is your background?,Mathematics:Computer Science:Biology:Chemistry:Languages:History,single
 2,How interested are you in this course?,0:1:2:3:4:5:6:7:8:9:10,single
 3,How many hours do you study this course per week for ?,0:1:2:3:4:5:6:7:8:9:10+,single
-4,What study materials you use for the course?,"Lecture Slides:Notes:Books-Recommended:Books-Out Of Course:Internet Resources(Videos, Articles)",multiple
+4,What study materials you use for the course?,Lecture Slides:Notes:Books-Recommended:Books-Out Of Course:Internet Resources(Videos Articles),multiple
 5,Have you done any practical work in the course?,Yes:No:NA:Prefer not to Say,single
 6,Do you prefer to study alone?,Yes:No,single
 7,How many hours of sleep per night do you usually have?,0:1:2:3:4:5:6:7:8:9:10+,single

@@ -1,11 +1,11 @@
 import pandas as pd
-data=pd.read_csv("data.csv")
+data=pd.read_csv("/home/diego/Documents/HackOxford/Hack-Oxford/CreateData/data.csv")
 print (data.columns)
 
 my_list=[]
 import random
 random.seed(2762)
-f=open("generated_data.csv","w")
+f=open("/home/diego/Documents/HackOxford/Hack-Oxford/CreateData/generated_data.csv","w")
 f.write("student_id,")
 mlist=[]
 for i,x in data.iterrows():
@@ -37,7 +37,3 @@ for k in range(0,5000):
     f.write(str(cgpa))
     f.write('\n')
 f.close()
-
-
-
-
