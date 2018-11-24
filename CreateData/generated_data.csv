@@ -1,4 +1,4 @@
-student_id,What course are you taking,What is your background?,How interested are you in this course?,How many hours do you study this course per week for ?,What study materials you use for the course?,Have you done any practical work in the course?,Do you prefer to study alone?,How many hours of sleep per night do you usually have?,What of the following social activities do you participate in?,Have you been feeling stressed or unmotivated lately?,Expected Grade in the course,cgpa
+student_id,studied_course,Background,interested,Hour_week,Study_Materials,Practical_Work,Alone_Study,Sleep_hours,Soc_Activ,stressed_anx,Exp_GPA,Curr_GPA
 0,Databases,Chemistry,9,3,Books-Recommended:Notes:Books-Out Of Course:Lecture Slides:Internet Resources(Videos Articles),Prefer not to Say,Yes,1,Modelling:Sports,Yes,2,2
 1,Genetics,Chemistry,9,2,Books-Recommended:Lecture Slides:Notes:Books-Out Of Course:Internet Resources(Videos Articles),Yes,No,7,Fishing:Programming:Volunteering Work:Modelling:Sports,No,2,4
 2,Genetics,Chemistry,4,7,Notes:Books-Out Of Course:Lecture Slides:Books-Recommended,NA,No,8,Sports:Friend Circle in the University:Modelling,No,2,1.5
