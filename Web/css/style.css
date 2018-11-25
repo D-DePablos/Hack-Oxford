@@ -1,0 +1,16 @@
+label{
+    width: 100%;
+}
+
+select{
+    width: 100%;
+}
+
+form{
+    width: 80%;
+    margin: 0 auto!important;
+}
+
+.form-control{
+    border-color: #D9E3DA;
+}

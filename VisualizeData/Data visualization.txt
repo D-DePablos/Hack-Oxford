@@ -1,0 +1,12 @@
+# Data format:
+
+- Student ID (Different for n results)
+- Answers to different Questions 1-10
+
+
+- Each student is a row
+
+
+Distributions of Different features:
+
+Create random data: synthetic - Grades are absolutely random, so no expected bias - but we will
