@@ -1,5 +1,5 @@
 # Hack-Oxford
-Repository for HackOxford 2018
+Repository for HackOxford 2018      In too Deep / In2Deep
 
 What do we need:
 
@@ -18,4 +18,6 @@ Cool features:
 
 - Create graphs of whole distribution and being able to look at them (fetch ...)
 
-- Put name of book on Amazon
+- Have direct links to resources (book on Amazon, video on YouTube, course on EdX, Coursera, etc) and generate statistics for the usablity of each for future users (as recommendations)
+
+- Measure how useful Notes/Recommended books were versus videos, online courses and blog posts in order to help educators restructure course material and make it more interactive.
