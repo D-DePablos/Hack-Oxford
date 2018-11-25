@@ -20,28 +20,31 @@
 # stress, axiety, mental health
 
 
-
+0. 
 1. What is your background? (categories)
 
 
 
-Computer Science   ()
+Computer Science   (Discrete mathematics, Design and analysis of algorithms, Databases, Functional programming, Computational game theory)
 
-Mathematics  ()
+Mathematics  (Mathematical modelling, Linear algebra, Probability and statistics, Differential equations, Discrete mathematics)
 
-Biology ()
+Biology (Genetics, Ecology, Biochemistry, Cell biology, Microbiology)
 
-Chemistry ()
+Chemistry (Organic chemistry, Synthetic chemistry, Biochemistry, Linear algebra, Theoretical chemistry)
 
-Languages ()
+Languages (Latin, Greek, English, French, Mandarin)
 
 History ()
 
 
+#### if books and notes are less useful for some courses compared to blogs and videos -> how to restructure the course to make it more interactive and useful
 
-
+#### psychological help if needed
 
 2. How interested you are in this course?  (categories)
+
+0:10, 
 
 3. Do you prefer to study alone? (yes/no)
 
